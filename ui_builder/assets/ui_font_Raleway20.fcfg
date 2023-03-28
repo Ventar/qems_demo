@@ -1,0 +1,16 @@
+{
+  "codename": "Raleway20",
+  "ttf_path": "\\assets\\Raleway-Bold.ttf",
+  "bin_path": "\\assets\\ui_font_Raleway20.bin",
+  "c_path": "\\assets\\ui_font_Raleway20.c",
+  "cfg_path": "\\assets\\ui_font_Raleway20.fcfg",
+  "size": 20,
+  "bpp": 2,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

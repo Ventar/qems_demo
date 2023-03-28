@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 1.2 1.2"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="leaf.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="C:\Development\qems_demo\assets\leaf_green.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.54"
+     inkscape:cx="40.901213"
+     inkscape:cy="35.181976"
+     inkscape:window-width="2503"
+     inkscape:window-height="1363"
+     inkscape:window-x="1299"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g1871"
+     style="fill:#00a39b;fill-opacity:1">
+    <path
+       d="m 0.84,0.3726316 c -0.432,0.1010526 -0.5328,0.4128 -0.63264,0.674021 L 0.29808,1.08 0.34608,0.9637895 A 0.21552,0.22686316 0 0 0 0.408,0.9789474 C 0.936,0.9789474 1.08,0.12 1.08,0.12 1.032,0.2210526 0.696,0.2336842 0.456,0.2842105 0.216,0.3347368 0.12,0.5494737 0.12,0.6505263 A 0.29856,0.31427368 0 0 0 0.204,0.84 C 0.36,0.3726316 0.84,0.3726316 0.84,0.3726316 Z"
+       id="path2"
+       style="stroke-width:0.049247;fill:#00a39b;fill-opacity:1" />
+  </g>
+  <rect
+     width="24"
+     height="24"
+     fill="none"
+     id="rect4"
+     x="0"
+     y="0" />
+</svg>
